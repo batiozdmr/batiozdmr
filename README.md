@@ -1,3 +1,6 @@
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=735&lines=Hello%2C+I+am+Batıhan+and+I+am+working+on+new+technologies.)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 🔭 I’m currently working on various projects related to Python, Django, and Artificial Intelligence.<br><br>👯 I’m looking to collaborate on interesting projects that involve web development, machine learning, or natural language processing.<br><br>🤝 I’m looking for help with any challenging problems or areas where my expertise in Python, Django, or AI can be utilized.<br><br>🌱 I’m currently learning new advancements in the field of AI, particularly deep learning techniques and frameworks.<br><br>💬 Ask me about Python programming, Django web development, or any questions related to artificial intelligence.<br><br>⚡ Fun fact: Did you know that the Python programming language is named after the British comedy group Monty Python? It's not named after the snake!
 
